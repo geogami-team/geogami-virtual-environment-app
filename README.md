@@ -73,4 +73,4 @@ Heisenbergstraße 2
 ## License
 
 MIT
-Copyright (C) 2022 - GeoGami.
+Copyright (C) 2025 - [GeoGami](https://app.geogami.ifgi.de/play-game/playing-game/%7B%22id%22:%2268beba3a4ad8b45224dad303%22,%22isVRWorld%22:true,%22isVRMirrored%22:false,%22gameCode%22:%22you1%22,%22isSingleMode%22:true,%22shareData_cbox%22:false,%22playerName%22:%22you1%22,%22isRejoin%22:false%7D).
